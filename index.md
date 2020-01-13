@@ -3,7 +3,7 @@ This page acts a a course companion website for the courses taught by Prof. Jaco
 
 ## Current
 #### [EC308 Embedded Systems](./EmbeddedSystems)
-#### C-Programming
+#### [C-Programming](./courses/c-programming)
 
 ## Past
 ### 2019-2020 1H
