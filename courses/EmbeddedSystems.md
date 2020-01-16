@@ -1,5 +1,10 @@
 # EC308 Embedded Systems
 
+## General
+You can check the expectations of jobs in Embedded Systems at
+[Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
+[Job Listings at Linkedin](https://www.linkedin.com/jobs/search?keywords=Embedded%20Systems&location=Karnataka%2C%20India&trk=guest_job_search_jobs-search-bar_search-submit&redirect=false&position=2&pageNum=0&f_E=2&currentJobId=1636246267)
+
 ## Assignment 1
 * Objective: To make students familiar and comfortable with baremetal Embedded System Programming, the gnu compile toolchain and the cross-compile process flow. Also to familiarise students to embedded-C programming.
 * Students need to submit a bare-metal C program to blink an LED on and off continuously
@@ -14,13 +19,15 @@
 #### Tools
 * Because we develop our software on an x86 or ARM(Raspberry Pi) computer, we need to perform a "cross-compilation" inorder to generate the binary for AVR architecture.
 * Cross-compiler: avr-gcc installation.
-  * [Win-AVR](http://winavr.sourceforge.net) on Windows
+  * [Win-AVR](http://winavr.sourceforge.net) on Windows. [Setup for windows](http://ladyada.net/learn/avr/setup-win.html)
   * `sudo apt install gcc-avr binutils-avr` on Linux
 * IDE(optional): [Code-Blocks IDE](https://codeblocks.org) can be used to supervise Compile/Link etc.
   * `sudo apt install codeblocks`
 * avrdude installation.
   * avrdude is the software that we use to flash our program into the AVR chip.
   * `sudo apt install avrdude`
+* [usbasp hardware](https://www.amazon.in/VEEROBOT-PROGRAMMER-USBasp-USBISP-MICROCONTROLLERS/dp/B00WFD21AW)
+  * To connect your PC's USB to ICSP header of atmega; you need to use this protocol convertor.
 
 #### Procedure
 * Create a new file
@@ -31,4 +38,10 @@
   * `avr-gcc main.c` does both compile and link.
 * Flash the program
   * `avrdude -c usbasp -p m32 -U:flash:w:a.out`
+
+#### Difference between arduino and atmega
+* Arduino is a hardware platform (board with lots of standard 'hats') that is based on atmega
+  * In-addition it provides a software ecosystem including IDE, bootloader and drivers.
+  * The provided bootloader allows for program download over UART interface without using usbAsp or other external hardwares.
+  * Fresh atmega without the bootloader only supports program download via ICSP only.
 
