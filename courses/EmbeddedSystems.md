@@ -11,6 +11,7 @@
 * Mode of submission: Will be published later.
 
 ### Hints
+#### Tools
 * Because we develop our software on an x86 or ARM(Raspberry Pi) computer, we need to perform a "cross-compilation" inorder to generate the binary for AVR architecture.
 * Cross-compiler: avr-gcc installation.
   * [Win-AVR](http://winavr.sourceforge.net) on Windows
@@ -21,6 +22,7 @@
   * avrdude is the software that we use to flash our program into the AVR chip.
   * `sudo apt install avrdude`
 
+#### Procedure
 * Create a new file
   * If using code-blocks IDE, you need to create a new project first and then a new c file within that project and enter the code.
   * Otherwise create a new file `main.c` and type in the program.
