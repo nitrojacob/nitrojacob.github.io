@@ -1,5 +1,7 @@
 # EC308 Embedded Systems
 
+[Lecture Slides](https://drive.google.com/drive/folders/1TX-RVMgG9Bpw5-rACOstmsd619kH-7J6?usp=sharing)
+
 ## General
 You can check the expectations of jobs in Embedded Systems at
   * [Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
