@@ -61,8 +61,8 @@ For all assignments as part of this course, students have to program them on a b
 ## Assignment 3
 * Objective: To learn how to setup and use RTOS for embedded systems.
 * Students need to build freeRTOS port for AVR. Create and run two parallel tasks - 1. to blink an LED(Assignment 1) and 2. to do uart loopback(Assignment 2)
-* Figure out the platform clock frequency, and division factor individually; and the compile/link/flash flows as group learning.
-* Submission Date: 18/04/2020
+* Figure out the porting of freeRTOS to AVR as group activity. Task creation & using other OS calls etc as individual activity.
+* Submission Date: 30/04/2020
 * Grouping: Individual Submission
 * Mode of submission: E-mail jacob(at)gecidukki.ac.in
 * Module Coverage: Module 5,6
