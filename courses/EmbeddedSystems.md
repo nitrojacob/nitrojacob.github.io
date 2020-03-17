@@ -2,8 +2,8 @@
 
 ## General
 You can check the expectations of jobs in Embedded Systems at
-[Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
-[Job Listings at Linkedin](https://www.linkedin.com/jobs/search?keywords=Embedded%20Systems&location=Karnataka%2C%20India&trk=guest_job_search_jobs-search-bar_search-submit&redirect=false&position=2&pageNum=0&f_E=2&currentJobId=1636246267)
+  * [Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
+  * [Job Listings at Linkedin](https://www.linkedin.com/jobs/search?keywords=Embedded%20Systems&location=Karnataka%2C%20India&trk=guest_job_search_jobs-search-bar_search-submit&redirect=false&position=2&pageNum=0&f_E=2&currentJobId=1636246267)
 
 For all assignments as part of this course, students have to program them on a baremetal AVR platform. Students can save time by using the Arduino hardware if they wish to do so. But are not allowed to use arduino IDE or sketch. They are expected to write the baremetal C program.
 
