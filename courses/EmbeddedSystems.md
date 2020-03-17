@@ -17,7 +17,7 @@ For all assignments as part of this course, students have to program them on a b
 * Students are expected to write the C program, figure out the platform clock frequency, and division factor individually; and the compile/link/flash flows as group learning.
 * Submission Date: 31/01/2020
 * Grouping: Individual Submission
-* Mode of submission: E-mail jacob(at)gecidukki.ac.in
+* Mode of submission: E-mail jacob(at)gecidukki.ac.in with subject line as `[EC308][Assignment 1]<roll#> <name>`
 * Module Coverage: Module 1
 
 ### Hints
@@ -57,14 +57,23 @@ For all assignments as part of this course, students have to program them on a b
 * Students need to submit a bare-metal C program to loopback UART. ie. it will send a message received on UART RxD port to TxD port; preferably after case inversion (Small letter -> capital and vice versa)
 * Submission Date: 31/03/2020
 * Grouping: Individual Submission
-* Mode of submission: E-mail jacob(at)gecidukki.ac.in
-* Module Coverage: Module 2,3
+* Mode of submission: E-mail jacob(at)gecidukki.ac.in with subject line as `[EC308][Assignment 2]<roll#> <name>`
+* Module Coverage: Module 2, 3
+
+### Hints
+* A driver is a set of functions implemented in one or two .c/.h files. Access to device registers are to be done only throuh corresponding driver.
+* In case of uart, the driver should atleast provide following functions
+  * `uart_init()` function to configure during init.
+  * `uart_read()` function to read a character from uart.
+  * `uart_write()` function to write a character to uart.
+* In `main()` loop, you can call the above driver functions, along with code to modify the stream.
+* Once basic functionality is demoed, considerations of what will happen if a UART Rx interrupt comes before execution of `uart_read()` etc, needs to be built.
 
 ## Assignment 3
 * Objective: To learn how to setup and use RTOS for embedded systems.
-* Students need to build freeRTOS port for AVR. Create and run two parallel tasks - 1. to blink an LED(Assignment 1) and 2. to do uart loopback(Assignment 2)
-* Figure out the porting of freeRTOS to AVR as group activity. Task creation & using other OS calls etc as individual activity.
+* Students need to build freeRTOS port for AVR. Create and run two parallel tasks - 1. to blink an LED(from Assignment 1) and 2. to do uart loopback(from Assignment 2)
+* Figure out the porting of freeRTOS to AVR as group activity. Task creation & using other RTOS calls etc as individual activity.
 * Submission Date: 30/04/2020
 * Grouping: Individual Submission
-* Mode of submission: E-mail jacob(at)gecidukki.ac.in
-* Module Coverage: Module 5,6
+* Mode of submission: E-mail jacob(at)gecidukki.ac.in with subject line as `[EC308][Assignment 3]<roll#> <name>`
+* Module Coverage: Module 5, 6
