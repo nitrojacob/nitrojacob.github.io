@@ -77,3 +77,9 @@ For all assignments as part of this course, students have to program them on a b
 * Grouping: Individual Submission
 * Mode of submission: E-mail jacob(at)gecidukki.ac.in with subject line as `[EC308][Assignment 3]<roll#> <name>`
 * Module Coverage: Module 5, 6
+
+### Hints
+* A sample port of freeRTOS for AVR is provided at https://github.com/nitrojacob/embedded-examples/tree/master/freeRTOS/AVR/blinky. Refer it in case you get stuck.
+  * A slightly modified version of FreeRTOS-Kernel is required to build properly for AVR under avr-gcc compiler. https://github.com/nitrojacob/FreeRTOS-Kernel
+  * The example was tested on the AVR simulator - simulavr and might have surprises with real chips. Its a bit hard to setup and use simulavr. But a guide for same is available at https://nitrojacob.wordpress.com/2020/03/30/simulavr-with-codeblocks/
+
