@@ -1,6 +1,7 @@
 # EC308 Embedded Systems
 
-[Lecture Slides](https://drive.google.com/drive/folders/1TX-RVMgG9Bpw5-rACOstmsd619kH-7J6?usp=sharing)
+[Lecture Slides](https://drive.google.com/open?id=1TX-RVMgG9Bpw5-rACOstmsd619kH-7J6)
+[Video Lectures](https://drive.google.com/open?id=15i0zo1Qv8bDarNqqmRaYvfMqYPSKEnTW)
 
 ## General
 You can check the expectations of jobs in Embedded Systems at
