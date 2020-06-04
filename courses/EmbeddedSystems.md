@@ -4,6 +4,11 @@
 
 [Video Lectures](https://drive.google.com/open?id=15i0zo1Qv8bDarNqqmRaYvfMqYPSKEnTW)
 
+Quizes
+Quizes shall be used to record attendance for each lecture. You need to score >=50 to secure attendance for the lecture.
+* Module 4
+  * [Lecture 1](https://forms.gle/3fddU6SCr7fiDDBf9)
+
 ## General
 You can check the expectations of jobs in Embedded Systems at
   * [Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
