@@ -10,6 +10,9 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
   * [Lecture 1](https://docs.google.com/forms/d/e/1FAIpQLSf9SQIZUSxEa6ijnAdcl6LruLSh3AhRI8qWDBZpcZG053d9dg/viewform?usp=sf_link)
   * [Lecture 2](https://docs.google.com/forms/d/e/1FAIpQLSe098YYMstXWt3rFIuAMnt20w25l8LZ3FY1xHJjLYw8r5q8Xg/viewform?usp=sf_link)
   * [Lecture 3](https://docs.google.com/forms/d/e/1FAIpQLSdw_Jz4q52FRHPeIVhKunEnwj7iwjcqDr6SV0TruGu7vCLNgw/viewform?usp=sf_link)
+  * [Lecture 4](https://docs.google.com/forms/d/e/1FAIpQLSeB8vDrShYw7D9T21PzUTZjDgjuAQso86Dbtn80kF0jlxuxAQ/viewform?usp=sf_link)
+  * [Lecture 5](https://docs.google.com/forms/d/e/1FAIpQLSc6C3jv2FWiR7OUZU_d5UrzfKh5ij4Z1el515l8d_gKE4VaEA/viewform?usp=sf_link)
+
   
 ## General
 You can check the expectations of jobs in Embedded Systems at
