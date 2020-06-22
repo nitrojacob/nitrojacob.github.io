@@ -4,6 +4,8 @@
 
 [Video Lectures](https://drive.google.com/open?id=15i0zo1Qv8bDarNqqmRaYvfMqYPSKEnTW)
 
+[Module 5 Demos on Github](https://github.com/nitrojacob/embedded-examples/tree/master/ipc)
+
 ## Quizes
 Quizes shall be used to record attendance for each lecture. You need to score >=50 to secure attendance for the lecture.
 * Module 4
@@ -12,6 +14,11 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
   * [Lecture 3](https://docs.google.com/forms/d/e/1FAIpQLSdw_Jz4q52FRHPeIVhKunEnwj7iwjcqDr6SV0TruGu7vCLNgw/viewform?usp=sf_link)
   * [Lecture 4](https://docs.google.com/forms/d/e/1FAIpQLSeB8vDrShYw7D9T21PzUTZjDgjuAQso86Dbtn80kF0jlxuxAQ/viewform?usp=sf_link)
   * [Lecture 5](https://docs.google.com/forms/d/e/1FAIpQLSc6C3jv2FWiR7OUZU_d5UrzfKh5ij4Z1el515l8d_gKE4VaEA/viewform?usp=sf_link)
+  * [Lecture 6](https://docs.google.com/forms/d/e/1FAIpQLSfmibCOFUEXJQc3eSKoLs5-tin2DSLdCSzBbeRod9fGvX1gXw/viewform?usp=sf_link)
+  * [Lecture 7](https://docs.google.com/forms/d/e/1FAIpQLSdE7XRCHe957TxW8LRuYUX6ZlWxI2H6dY89CUp1f1K87jTCUA/viewform?usp=sf_link)
+* Module 5
+  * [Lecture 1](https://docs.google.com/forms/d/e/1FAIpQLScFyT7yJ4Smz0j7rz4wNZV_LxHtL4CvKXUBK1Pp6f3hdM_MVA/viewform?usp=sf_link)
+  *
 
   
 ## General
