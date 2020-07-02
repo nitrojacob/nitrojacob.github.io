@@ -24,7 +24,34 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
   * [Lecture 5](https://docs.google.com/forms/d/e/1FAIpQLScTUplOF0FRCJaztSHhvpTVr9s3D7THXjWoJwvB5IlnuALZ_Q/viewform?usp=sf_link)
   * [Lecture 6](https://docs.google.com/forms/d/e/1FAIpQLSdEOYcrohoDvzTdX9sQrfvflBdzAUyNJvHCqNkODkfSsYgBUg/viewform?usp=sf_link)
 
-  
+## Feedback
+* [Module 4](https://docs.google.com/forms/d/e/1FAIpQLSeGeMZPPCOKPTHoVWFaOa2NZg2Um_4cHYTHjR005n9taqrMLA/viewform?usp=sf_link)
+
+## Written Assignments/Evaluations
+### Test 1
+* Due Date: 3/6/2020
+* Questions (All three must be answered by all. All have equal weightage - 10 marks each)
+  * Describe various hardware and software components used in Embedded System.
+  * Explain the working principles of CAN Bus with relevant diagrams. How bus arbitrations happens in CAN.
+  * List and describe the various IO devices found on an embedded system (2 marks per device).
+* Mode of submission: Scanned copy of written answers.
+
+
+## Module wise text book for reference
+
+* Module 1:
+  * Embedded System Design: A Unified Hardware Software Introduction - Frank Vahid, Tony D. Givargis
+* Module 2:
+  * Introduction To Embedded Systems - K. V Shibu; Section 2.4 or Embedded Systems - Lyla B Das; Section 5.2
+* Module 3:
+  * Embedded Systems - Lyla B Das; Section 11.3, Section 2.2
+* Module 4:
+  * Embedded Systems - Lyla B Das; Chapter 6
+* Module 5:
+  * Modern Operating Systems - Andrew Tanenbaum
+* Module 6:
+  * 
+
 ## General
 You can check the expectations of jobs in Embedded Systems at
   * [Job Listings at Naukri](https://www.naukri.com/vlsi-jobs?xt=catsrch&qf[]=24.05)
