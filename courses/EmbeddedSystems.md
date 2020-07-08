@@ -23,6 +23,11 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
   * [Lecture 4](https://docs.google.com/forms/d/e/1FAIpQLSdp79wcfiJmfGWnRZT255kbK00DYaJwpV5M-lIF5fNj-lTKyQ/viewform?usp=sf_link)
   * [Lecture 5](https://docs.google.com/forms/d/e/1FAIpQLScTUplOF0FRCJaztSHhvpTVr9s3D7THXjWoJwvB5IlnuALZ_Q/viewform?usp=sf_link)
   * [Lecture 6](https://docs.google.com/forms/d/e/1FAIpQLSdEOYcrohoDvzTdX9sQrfvflBdzAUyNJvHCqNkODkfSsYgBUg/viewform?usp=sf_link)
+  * [Lecture 7](https://docs.google.com/forms/d/e/1FAIpQLSebjQaLG69cqMl9E1xrFV3TyvtagfZX2_4B1XUxWVoyBy7wDg/viewform?usp=sf_link)
+  * [Lecture 8](https://docs.google.com/forms/d/e/1FAIpQLSdmX0pdY06VygtXGxi8KKYjpSnbDbQfAlgAqxzWMZPxQcS5Cw/viewform?usp=sf_link)
+  * [Lecture 9](https://docs.google.com/forms/d/e/1FAIpQLSdvvSeBmVcQyh99zkbzP4mC8KP5l7YSOeGj_ppPc2MmhNYZig/viewform?usp=sf_link)
+* Module 6
+  * 
 
 ## Feedback
 * [Module 4](https://docs.google.com/forms/d/e/1FAIpQLSeGeMZPPCOKPTHoVWFaOa2NZg2Um_4cHYTHjR005n9taqrMLA/viewform?usp=sf_link)
