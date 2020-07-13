@@ -27,7 +27,9 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
   * [Lecture 8](https://docs.google.com/forms/d/e/1FAIpQLSdmX0pdY06VygtXGxi8KKYjpSnbDbQfAlgAqxzWMZPxQcS5Cw/viewform?usp=sf_link)
   * [Lecture 9](https://docs.google.com/forms/d/e/1FAIpQLSdvvSeBmVcQyh99zkbzP4mC8KP5l7YSOeGj_ppPc2MmhNYZig/viewform?usp=sf_link)
 * Module 6
-  * 
+  * [Lecture 1](https://docs.google.com/forms/d/e/1FAIpQLSdYNOmtGTZsXapYRMgy1FgkMpfPpfMdO8p__FRKmNRiVx0cXw/viewform?usp=sf_link)
+  * [Lecture 2](https://docs.google.com/forms/d/e/1FAIpQLSf2ZNXMHBC1gLtBm-q7wVFsttJIScayBNRloO-Gk1fgN_DY4w/viewform?usp=sf_link)
+  *
 
 ## Feedback
 * [Module 4](https://docs.google.com/forms/d/e/1FAIpQLSeGeMZPPCOKPTHoVWFaOa2NZg2Um_4cHYTHjR005n9taqrMLA/viewform?usp=sf_link)
@@ -43,6 +45,7 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
 
 
 ## Module wise text book for reference
+Embedded Systems Architecture Programming and Design - Raj Kamal; can serve as a to the point exam oriented book. However to get the concept right and for more detailed reading following can be used
 
 * Module 1:
   * Embedded System Design: A Unified Hardware Software Introduction - Frank Vahid, Tony D. Givargis
