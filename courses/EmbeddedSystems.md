@@ -36,6 +36,10 @@ Quizes shall be used to record attendance for each lecture. You need to score >=
 ## Feedback
 * [Module 4](https://docs.google.com/forms/d/e/1FAIpQLSeGeMZPPCOKPTHoVWFaOa2NZg2Um_4cHYTHjR005n9taqrMLA/viewform?usp=sf_link)
 
+## MCQ Test
+* [Module 1,2,3](https://docs.google.com/forms/d/e/1FAIpQLScbGWdZGrzpBACwcjZBRmzEadAZ0V08q7GHvlzMsZUU1fpbnA/viewform?usp=sf_link)
+
+
 ## Written Assignments/Evaluations
 ### Test 1
 * Due Date: 3/6/2020
