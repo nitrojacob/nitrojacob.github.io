@@ -25,9 +25,9 @@ This site acts as a course companion website for the courses taught by me.
 
 ## Past
 ### 2019-2020 2H
-  * [EC308 Embedded Systems](./f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/EmbeddedSystems)
-  * [EST102 Programming in C](./f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/c-programming)
-  * [EC332 Communication Engineering Lab](./f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/CommunicationEnggLab)
+  * [EC308 Embedded Systems](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/EmbeddedSystems.md)
+  * [EST102 Programming in C](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/c-programming.md)
+  * [EC332 Communication Engineering Lab](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/CommunicationEnggLab.md)
 ### 2019-2020 1H
   * EC361 Digital System Design
   * 04EC7505 Computer Architecture and Parallel Processing
