@@ -19,11 +19,15 @@ This site acts as a course companion website for the courses taught by me.
 # Course Related Information
 
 ## Current
+  * [HUT200 ProfessionalEthics](./courses/ProfessionalEthics)
+  * [ECT281 Electronic Circuits](./courses/ElectronicCircuits_Minor)
+  * [EC335 Power Electronics and Instrumentation Lab](./courses/PowerElectronicsInstrumentationLab)
+
+## Past
+### 2019-2020 2H
   * [EC308 Embedded Systems](./courses/EmbeddedSystems)
   * [EST102 Programming in C](./courses/c-programming)
   * [EC332 Communication Engineering Lab](./courses/CommunicationEnggLab)
-
-## Past
 ### 2019-2020 1H
   * EC361 Digital System Design
   * 04EC7505 Computer Architecture and Parallel Processing
