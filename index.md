@@ -29,8 +29,8 @@ This site acts as a course companion website for the courses taught by me.
   * [ECT281 Electronic Circuits](./courses/ElectronicCircuits_Minor)
   * [EC335 Power Electronics and Instrumentation Lab](./courses/PowerElectronicsInstrumentationLab)
 ### 2019-2020 2H
-  * [EC308 Embedded Systems](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/EmbeddedSystems.md)
-  * [EST102 Programming in C](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/c-programming.md)
+  * [EC308 Embedded Systems](./archives/2020/EmbeddedSystems.md)
+  * [EST102 Programming in C](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/c-programming)
   * [EC332 Communication Engineering Lab](https://github.com/nitrojacob/nitrojacob.github.io/blob/f8d7ca25778fd3bbddcc7656e7ace33b39bdf46a/courses/CommunicationEnggLab.md)
 ### 2019-2020 1H
   * EC361 Digital System Design
