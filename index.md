@@ -15,6 +15,9 @@ In India, I see an engineering skill gap. The engineering graduates are in overs
   * All students being employable in the discipline and allied disciplines.
   * Finding and nurturing the enterpreneurs of tomorrow.
 
+Web Utilities
+[KTU Result Analysis](./utils/analyse_result)
+
 This site acts as a course companion website for the courses taught by me.
 # Course Related Information
 
@@ -24,6 +27,7 @@ This site acts as a course companion website for the courses taught by me.
   * [ESL130 Electronics Workshop](./courses/ElectronicsWorkshop)
 
 ## Past
+  * Power Management of Embedded Systems
 ### 2020-2021 1H
   * [HUT200 ProfessionalEthics](./courses/ProfessionalEthics)
   * [ECT281 Electronic Circuits](./courses/ElectronicCircuits_Minor)
