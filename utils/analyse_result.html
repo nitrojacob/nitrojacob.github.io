@@ -2,14 +2,15 @@
 <html>
   <head>
     <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+
   </head>
 
   <body>
     <p>
       Enter local path to the result analysis file and press Run
     </p>
-    <input type="file" id="path" value="" />
-    <button onclick="evaluatePython()">Run</button>
+    <input type="file" id="fileInput" value="" />
+    <button id="readButton">Run</button>
     <br />
     <br />
     <div>Output:</div>
@@ -17,9 +18,16 @@
 
     <script>
       const output = document.getElementById("output");
-      const path = document.getElementById("path");
+      const fileInput = document.getElementById('fileInput');
+      const readButton = document.getElementById("readButton");
+      readButton.addEventListener('click', () => {
+        output.value += fileInput.files[0].name + "\n";
+        readExcelFile(fileInput.files[0]);
+      });
+      
       const code = 
 `import pandas as pd
+import pandas.io as io
 class KTU2019Result(object):
     def __init__(self, xls, ofmt, scheme=2019):
         self.df = pd.read_excel(xls, header=1)
@@ -121,15 +129,14 @@ class KTU2019Result(object):
         print(self.sfmt.format( 'CGPA Median', self.cgpa.Score.median()))
 scheme = 2019
 output = "pretty"
-print(xls)
-result = KTU2019Result(xls, output, scheme)
+result = KTU2019Result(io.common.StringIO(xls), output, scheme)
 result.analyse_pass_fail()
 result.print_pass_fail(None)
 result.analyse_sgpa_cgpa()
 result.print_sgpa_cgpa()`;
 
       function addToOutput(s) {
-        output.value += ">>>" + path.value + "\n" + s + "\n";
+        output.value += ">>>" + "\n" + s + "\n";
       }
 
       output.value = "Initializing...\n";
@@ -140,21 +147,26 @@ result.print_sgpa_cgpa()`;
         output.value += "Ready!\n";
         return pyodide;
       }
-      let pyodideReadyPromise = main();
-
-      async function evaluatePython() {
-      	//let xlsfile = await fetch(path.value);
+      async function readExcelFile(file) {
         let pyodide = await pyodideReadyPromise;
         output.value += "Running...\n";
+        const data = await new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => resolve(e.target.result);
+            reader.onerror = reject;
+            reader.readAsArrayBuffer(file);
+        });
+        
         try {
-          pyodide.globals.set("xls", path.value);
-          let output = pyodide.runPython(code);
-          addToOutput(output);
+          pyodide.globals.set("xls", data);
+          output.value += pyodide.runPython(code);
         } catch (err) {
-          addToOutput(err);
+          output.value += err;
         }
-        output.value += "Finished!\n";
+        output.value += "\nFinished!\n";
       }
+      let pyodideReadyPromise = main();
+
     </script>
   </body>
 </html>
